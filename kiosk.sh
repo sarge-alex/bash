@@ -19,3 +19,4 @@ done
 # Reload SSH configuration
 systemctl reload sshd
 echo "Configuration updated successfully!"
+test
