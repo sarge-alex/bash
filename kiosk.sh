@@ -20,3 +20,4 @@ done
 systemctl reload sshd
 echo "Configuration updated successfully!"
 test
+test2
